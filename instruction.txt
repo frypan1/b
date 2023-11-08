@@ -1,0 +1,3 @@
+set path = c:\\
+set class path = user\
+cd C:\\
